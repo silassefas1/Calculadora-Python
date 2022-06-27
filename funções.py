@@ -1,5 +1,8 @@
+
+
 def listar_Operadores():
-    print(""" Operadores Aritmeticos
+    print(""" 
+    Operadores Aritmeticos
     fatorial = fat 
     raiz quadrada = raiz
     seno = seno
@@ -12,7 +15,5 @@ def listar_Operadores():
     divisao_inteira =  // 
     modulo =  % 
     exponenciacao =  **
-    
     """) # math.factorial(x) valor fatorial// sqrt(x) raiz quadrada// math.sin(x) Seno //math.tan(x) tangente // math.cos(x)
- 
-listar_Operadores()
+    return
